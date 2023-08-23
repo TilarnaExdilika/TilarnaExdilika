@@ -13,9 +13,9 @@ Hello! I'm SangPham, a passionate individual who embodies the harmonious blend o
 
 Connect with me and explore more:
 
-[![Facebook](https://img.shields.io/badge/Facebook-%1877F2.svg?style=flat&logo=Facebook&logoColor=white)](https://www.facebook.com/profile.php?id=your_id_here)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/your_username)
-[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=flat&logo=YouTube&logoColor=white)](https://www.youtube.com/channel/your_channel_id_here)
+[![Facebook](https://img.shields.io/badge/Facebook-%1877F2.svg?style=flat&logo=Facebook&logoColor=white)](https://www.facebook.com/profile.php?id=100069645099219)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/syva/)
+[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=flat&logo=YouTube&logoColor=white)](https://www.youtube.com/channel/UCbmbQ3bA-VDDzGuntwdPb3g)
 
 <!-- Tech Stack -->
 ## 💻 Tech Stack
