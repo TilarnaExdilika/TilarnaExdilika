@@ -32,6 +32,10 @@ In the realm of coding, I dance with:
 ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=flat&logo=npm&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-%234479A1.svg?style=flat&logo=mysql&logoColor=white)
 ![MariaDB](https://img.shields.io/badge/MariaDB-%23003539.svg?style=flat&logo=mariadb&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-%230175C2.svg?style=flat&logo=dart&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=flat&logo=flutter&logoColor=white)
+![CRM](https://img.shields.io/badge/CRM-%23FF8200.svg?style=flat&logo=crm&logoColor=white)
+
 
 
 <!-- Design Tools -->
