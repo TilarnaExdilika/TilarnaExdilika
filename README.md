@@ -21,6 +21,10 @@ Connect with me and explore more:
 
 In the realm of coding, I dance with:
 
+![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=flat&logo=flutter&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-%230175C2.svg?style=flat&logo=dart&logoColor=white)
+![Godot](https://img.shields.io/badge/Godot-%23478CBF.svg?style=flat&logo=godot-engine&logoColor=white)
+![Unity](https://img.shields.io/badge/Unity-%23000000.svg?style=flat&logo=unity&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-%23239120.svg?style=flat&logo=c-sharp&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-%23777BB4.svg?style=flat&logo=php&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=flat&logo=javascript&logoColor=black)
@@ -31,11 +35,7 @@ In the realm of coding, I dance with:
 ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=flat&logo=npm&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-%234479A1.svg?style=flat&logo=mysql&logoColor=white)
 ![MariaDB](https://img.shields.io/badge/MariaDB-%23003539.svg?style=flat&logo=mariadb&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-%230175C2.svg?style=flat&logo=dart&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=flat&logo=flutter&logoColor=white)
 ![CRM](https://img.shields.io/badge/CRM-%23FF8200.svg?style=flat&logo=crm&logoColor=white)
-
-
 
 <!-- Design Tools -->
 ## 🎨 Design Tools
@@ -47,6 +47,8 @@ And in the world of design, I wield:
 ![Adobe Photoshop](https://img.shields.io/badge/Adobe%20Photoshop-%2300599C.svg?style=flat&logo=adobe%20photoshop&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-%23F24E1E.svg?style=flat&logo=figma&logoColor=white)
 ![Capcut](https://img.shields.io/badge/Capcut-%23000000.svg?style=flat&logo=capcut&logoColor=white)
+![Adobe After Effects](https://img.shields.io/badge/Adobe%20After%20Effects-%239900FF.svg?style=flat&logo=adobe%20after%20effects&logoColor=white)
+![Adobe Audition](https://img.shields.io/badge/Adobe%20Audition-%233FAAEF.svg?style=flat&logo=adobe%20audition&logoColor=white)
 
 <!-- Footer -->
 <p align="center">
